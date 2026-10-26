@@ -158,7 +158,7 @@ Autonomous_Mobile_Robot_RL_Navigation/
 ```bibtex
 @inproceedings{boukhiar2022autonomous,
   title     = {Autonomous Mobile Robot Learning in Unknown Environment},
-  author    = {Boukhiar, Naima and Mami, Mohammed Amine},
+  author    = {Naima Boukhiar},
   booktitle = {International Conference on Electrical, Computer, and Energy Technologies (ICECET)},
   address   = {Prague, Czech Republic},
   year      = {2022},
